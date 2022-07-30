@@ -2,3 +2,4 @@
 tictactoe project to practice js stuff
 
 use the reset button like how you think one would use it
+https://baconman125.github.io/TicTacToe/
